@@ -1,0 +1,6 @@
+{
+  "name": "RCoin Terminal",
+  "description": "A dark, precision-crafted live Bitcoin exchange dashboard and analytics platform styled like Apple. Features real-time price charts, 7-day future predictions, Gemini AI news aggregator, CSE teaser with gorgeous 3D/CSS animations, and downloadable documentation sheets with copyright RCoin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
